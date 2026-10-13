@@ -1,0 +1,5 @@
+Distributed Cloud File Transfer Accelerator
+
+This is my first cloud transfer test.
+The application encrypts the file, divides it into blocks,
+uploads the blocks to Supabase, and downloads them again.
